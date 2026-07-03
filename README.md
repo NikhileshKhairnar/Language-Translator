@@ -43,10 +43,6 @@ Open the project folder.
 
 Run `index.html` in your browser.
 
-## 📸 Screenshots
-
-_Add project screenshots here._
-
 ## 🎯 Future Improvements
 
 - OCR Image Translation
